@@ -1,0 +1,158 @@
+.stock-status {
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+
+.stock-status.in-stock {
+    color: green;
+}
+
+.stock-status.out-of-stock {
+    color: red;
+}
+
+.ProductDetails {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #F8EDE3;
+}
+
+.details-container {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 1200px;
+    margin: 0 auto;
+    justify-content: space-between;
+    gap: 20px;
+    padding-top: 30px;
+}
+
+.image-gallery {
+    flex: 1 1 50%;
+    text-align: center;
+}
+
+.main-image {
+    width: 400px;
+    height: 600px;
+    object-fit: cover;
+    margin-bottom: 20px;
+    border-radius: 8px;
+
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.thumbnail-gallery {
+    display: flex;
+    flex-direction: column;
+    justify-content: normal;
+    gap: 10px;
+}
+
+.thumbnail {
+    width: 100px;
+    height: 130px;
+    object-fit: cover;
+    cursor: pointer;
+    border: 2px solid transparent;
+    border-radius: 5px;
+}
+
+.thumbnail.selected, .thumbnail:hover {
+    border-color: #000;
+}
+
+.product-info {
+    flex: 1 1 35%;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    max-height: 450px;
+}
+
+.product-info h1 {
+    font-size: 20px;
+    margin-bottom: 5px;
+    color: #333;
+}
+
+.price {
+    font-size: 20px;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.description {
+    margin-bottom: 20px;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #555;
+}
+
+.options {
+    margin-bottom: 20px;
+}
+
+.colors {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.color-sample {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    margin-left: 10px;
+    border: 1px solid #ccc;
+    border-radius: 50%;
+}
+
+.sizes {
+    display: flex;
+    gap: 10px;
+}
+
+.size-button {
+    width: 35px;
+    padding: 5px 8px;
+    border: 1px solid #ccc;
+    background-color: transparent;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    border-radius: 2px;
+    color: black;
+}
+
+
+.size-button:hover {
+    background-color: #444;
+}
+
+.add-to-cart, .wishlist {
+    display: block;
+    width: 100%;
+    padding: 15px;
+    margin-top: 10px;
+    border: none;
+    background-color: #A7727D;
+    color: #fff;
+    cursor: pointer;
+    font-size: 16px;
+    text-align: center;
+    border-radius: 4px;
+    transition: background-color 0.3s;
+}
+
+.add-to-cart:hover, .wishlist:hover {
+    background-color: #333;
+}
+
+.add-to-cart[disabled] {
+    background-color: #ccc;
+    cursor: not-allowed;
+}

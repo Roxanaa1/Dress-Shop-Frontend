@@ -1,0 +1,71 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+    font-family: Arial, sans-serif;
+}
+
+body.login-page {
+    overflow: hidden;
+}
+
+.login-page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: url('/public/images/login.jpg') no-repeat center center fixed;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+}
+
+.login-container {
+    background-color: transparent;
+    padding: 40px;
+    border-radius: 8px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+    margin-left: 400px;
+}
+
+form {
+    width: 400px;
+}
+
+input[type="email"], input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+}
+
+button {
+    width: 100%;
+    padding: 10px 0;
+    background-color: gray;
+    color: white;
+    border-radius: 4px;
+    border: none;
+    cursor: pointer;
+}
+
+h2 {
+    text-align: center;
+}
+
+.register-link {
+    margin-top: 15px;
+    text-align: center;
+}
+
+.register-link button {
+    padding: 5px 10px;
+    font-size: 17px;
+    cursor: pointer;
+    background-color: gray;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}

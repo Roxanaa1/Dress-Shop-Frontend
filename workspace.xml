@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ad4da288-7ce9-4125-8113-cd970305e034" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2jdh4J3K8ZdYqd0UT6mYPKQvcJA" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;frontend&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/roxan/WebstormProjects/shop/src&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_interpreter_path&quot;: &quot;node&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;npm.npm start.executor&quot;: &quot;Run&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\WebStorm 2024.1.5\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\roxan\WebstormProjects\shop\src" />
+      <recent name="C:\Users\roxan\WebstormProjects\shop\public\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\roxan\WebstormProjects\shop\public" />
+      <recent name="C:\Users\roxan\WebstormProjects\shop\src\images" />
+      <recent name="C:\Users\roxan\WebstormProjects\shop\src" />
+      <recent name="C:\Users\roxan\WebstormProjects\shop\src\components" />
+      <recent name="C:\Users\roxan\WebstormProjects\shop\src\styles" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-WS-241.18034.50" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ad4da288-7ce9-4125-8113-cd970305e034" name="Changes" comment="" />
+      <created>1721722669390</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721722669390</updated>
+      <workItem from="1721722670527" duration="5373000" />
+      <workItem from="1721804265436" duration="11327000" />
+      <workItem from="1721891006348" duration="6418000" />
+      <workItem from="1722235127013" duration="9139000" />
+      <workItem from="1722246346642" duration="712000" />
+      <workItem from="1722287717842" duration="431000" />
+      <workItem from="1722323071461" duration="10031000" />
+      <workItem from="1722337911641" duration="610000" />
+      <workItem from="1722410250766" duration="12896000" />
+      <workItem from="1722427572063" duration="3429000" />
+      <workItem from="1722495363722" duration="16430000" />
+      <workItem from="1722844377887" duration="13222000" />
+      <workItem from="1722858152931" duration="953000" />
+      <workItem from="1722889568165" duration="770000" />
+      <workItem from="1722928574340" duration="16159000" />
+      <workItem from="1723015428105" duration="15504000" />
+      <workItem from="1723103799547" duration="10428000" />
+      <workItem from="1723143548097" duration="229000" />
+      <workItem from="1723446926003" duration="6621000" />
+      <workItem from="1723459879997" duration="5609000" />
+      <workItem from="1723534273664" duration="7481000" />
+      <workItem from="1723620601702" duration="9737000" />
+      <workItem from="1724052278615" duration="2505000" />
+      <workItem from="1724057686198" duration="9060000" />
+      <workItem from="1724066880072" duration="4447000" />
+      <workItem from="1724095821418" duration="2040000" />
+      <workItem from="1724142458186" duration="1924000" />
+      <workItem from="1724144394366" duration="4726000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
